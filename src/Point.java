@@ -1,2 +1,1 @@
-package PACKAGE_NAME;public record Point() {
-}
+public record Point(double x, double y) {}
